@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    background: #111;
+  }
+  
+  h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .NattyTVTitle {
+    display: block;
+    font-size: 7vw;
+    color: #96D3FF;
+  }
+  .topnav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    z-index: 1000;
+    background: linear-gradient(to right, #222, #333);
+    overflow: hidden;
+    display: flex;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: rgb(132, 171, 255);
+    color: white;
+    font-size: 18px;
+    padding: 14px 3%;
+  }
+  
+  .topnav a.search {
+    padding: 16px 3% 10px 3%;
+  }
+  
+  .topnav a.watchlist {
+    padding: 16px 3% 10px 3%;
+  }
+  
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh; 
+    width: 100%; 
+  }
