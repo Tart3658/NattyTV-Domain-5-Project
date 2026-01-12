@@ -1,18 +1,20 @@
 window.onload = function () {
-    const xhr = new XMLHttpRequest();
-    let url =
-      'https://gist.github.com/saniyusuf/406b843afdfb9c6a86e25753fe2761f4.js';
+    const request = new XMLHttpRequest();
     let data;
+    let grid;
+
   
     xhr.addEventListener('readystatechange', function () {
       if (xhr.readyState === 4 && xhr.response === 200) {
-        data = JSON.parse(this.responseText);
+        data = JSON.parse(request.responseText);
         console.log(data);
+        if(data){
+            let movie = toString(data.Movie);
+        }
       }
     });
-  
-    xhr.open('GET', url);
-    xhr.send();
   };
 
-  
+  request.open("GET", "file.JSON", true);
+  request.send();
+
