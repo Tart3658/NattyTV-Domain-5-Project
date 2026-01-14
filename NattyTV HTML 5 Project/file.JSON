@@ -1,0 +1,211 @@
+[
+    {
+        "Movie": "K-pop Natty Hunters",
+        "Year": "2025",
+        "Length": "1min",
+        "Language": "English-Korean",
+        "Genre": "K-pop, Musical, Action",
+        "Cast": "Nathaniel Yohanes, Hazael Setiadi, Anthony Vasquez, Angel Bautista, Dominic Mora",
+        "Rating": "9.4/10",
+        "Image": "",
+        "Description": "You're my soda pop but with a slight twist. It comes with better actors than the original"
+    },
+    {
+        "Movie": "56",
+        "Year": "2025",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Action, Comedy",
+        "Cast": "Nathaniel Yohanes",
+        "Rating": "5.6/10",
+        "Image": "",
+        "Description": "56 but with natty"
+    },
+    {
+        "Movie": "bigbaby",
+        "Year": "2025",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Action, Comedy",
+        "Cast": "Dominic Mora, Angel Bautista",
+        "Rating": "9.1/10",
+        "Image": "",
+        "Description": "because angel made domo baby sad, the sadness of the baby after the rejection of milk cause baby to be sad"
+    },
+    {
+        "Movie": "Incredible Gassy",
+        "Year": "2025",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Comedy",
+        "Cast": "Samuel Shazaman",
+        "Rating": "9.3/10",
+        "Image": "",
+        "Description": "Incredible gassy extreme"
+    },
+    {
+        "Movie": "Skibidi Toilet: The Final Flush",
+        "Year": "2025",
+        "Length": "2min",
+        "Language": "English",
+        "Genre": "Sci-Fi, Horror",
+        "Cast": "G-Man, Camerahead Prime",
+        "Rating": "10/10",
+        "Image": "https://example.com/skibidi.jpg",
+        "Description": "The war between the toilets and the hardware-headed men reaches its peak in a silent, high-stakes battle for the bathroom."
+    },
+    {
+        "Movie": "Ohio Final Boss",
+        "Year": "2025",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Action, Fantasy",
+        "Cast": "Saturn, The King of Ohio",
+        "Rating": "8.8/10",
+        "Image": "https://example.com/ohio.jpg",
+        "Description": "A traveler accidentally takes a wrong turn and ends up in Cleveland, where the laws of physics no longer apply."
+    },
+    {
+        "Movie": "Mewing Academy",
+        "Year": "2025",
+        "Length": "3min",
+        "Language": "English",
+        "Genre": "Documentary, Sport",
+        "Cast": "Looksmaxxer 9000, Chad Thundercut",
+        "Rating": "9.9/10",
+        "Image": "https://example.com/mewing.jpg",
+        "Description": "A group of students competes to see who can maintain the perfect jawline for an entire semester without speaking."
+    },
+    {
+        "Movie": "Grumace Shake Incident",
+        "Year": "2024",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Horror, Mystery",
+        "Cast": "Purple Blob, Unlucky Teenager",
+        "Rating": "7.2/10",
+        "Image": "https://example.com/shake.jpg",
+        "Description": "What happens after the first sip? A found-footage nightmare involving a very purple birthday celebration."
+    },
+    {
+        "Movie": "Fanum Tax Collector",
+        "Year": "2025",
+        "Length": "2min",
+        "Language": "English",
+        "Genre": "Crime, Thriller",
+        "Cast": "Kai Cenat, Fanum",
+        "Rating": "9.5/10",
+        "Image": "https://example.com/tax.jpg",
+        "Description": "In a world where 20% of every meal is legally required to be surrendered, one man dares to eat a whole burger."
+    },
+    {
+        "Movie": "Rizzler's Revenge",
+        "Year": "2025",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Romance, Action",
+        "Cast": "Baby Alien, The Rizzler",
+        "Rating": "10/10",
+        "Image": "https://example.com/rizz.jpg",
+        "Description": "Armed with nothing but a smoldering stare and a sharp haircut, he must win over the entire city."
+    },
+    {
+        "Movie": "Sticking Out Your Gyat",
+        "Year": "2024",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Musical",
+        "Cast": "The Sigma Squad",
+        "Rating": "4.2/10",
+        "Image": "https://example.com/gyat.jpg",
+        "Description": "A high-school musical where everyone communicates solely through TikTok trending audios."
+    },
+    {
+        "Movie": "Cooking with Ice Spice",
+        "Year": "2025",
+        "Length": "2min",
+        "Language": "English",
+        "Genre": "Reality, Comedy",
+        "Cast": "Ice Spice, A Deli Sandwich",
+        "Rating": "8.9/10",
+        "Image": "https://example.com/spice.jpg",
+        "Description": "A gourmet cooking show where the only ingredient used is 'vibes' and the food is never actually eaten."
+    },
+    {
+        "Movie": "Subway Surfers: The IRL Run",
+        "Year": "2025",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Action",
+        "Cast": "Jake from Subway, The Inspector",
+        "Rating": "6.7/10",
+        "Image": "https://example.com/surf.jpg",
+        "Description": "A teenager runs on train tracks while a split-screen displays Minecraft parkour for no reason."
+    },
+    {
+        "Movie": "Baby Gronk vs. The Universe",
+        "Year": "2025",
+        "Length": "3min",
+        "Language": "English",
+        "Genre": "Sci-Fi, Sports",
+        "Cast": "Baby Gronk, Livvy Dunne",
+        "Rating": "9.1/10",
+        "Image": "https://example.com/gronk.jpg",
+        "Description": "The New King of Ohio must defeat an alien invasion by Rizxing up the mothership."
+    },
+    {
+        "Movie": "I Show Speed: The Moon Landing",
+        "Year": "2025",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Adventure",
+        "Cast": "IShowSpeed, Ben the Dog",
+        "Rating": "9.8/10",
+        "Image": "https://example.com/speed.jpg",
+        "Description": "Speed travels to the moon just to see if Cristiano Ronaldo is actually there. He barks at a crater."
+    },
+    {
+        "Movie": "The Mogging Games",
+        "Year": "2025",
+        "Length": "2min",
+        "Language": "English",
+        "Genre": "Survival, Comedy",
+        "Cast": "Gigachad, Handsome Squidward",
+        "Rating": "10/10",
+        "Image": "https://example.com/mog.jpg",
+        "Description": "24 contestants enter an arena; only the one with the most aesthetic bone structure will survive."
+    },
+    {
+        "Movie": "Quandale Dingle's Big Break",
+        "Year": "2024",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Crime, Comedy",
+        "Cast": "Quandale Dingle, Juandale Pringle",
+        "Rating": "5.5/10",
+        "Image": "https://example.com/dingle.jpg",
+        "Description": "After escaping prison for 'goofy ahh' crimes, Quandale tries to start a new life as a librarian."
+    },
+    {
+        "Movie": "Who Let the Dogs Out? (2025 Remake)",
+        "Year": "2025",
+        "Length": "1min",
+        "Language": "English",
+        "Genre": "Documentary",
+        "Cast": "Every Dog on the Internet",
+        "Rating": "7.7/10",
+        "Image": "https://example.com/dogs.jpg",
+        "Description": "An investigative deep dive into who actually opened the gate. Spoiler: It was the Sigma."
+    },
+    {
+        "Movie": "Fortnite Battle Royale: The Movie",
+        "Year": "2025",
+        "Length": "2min",
+        "Language": "English",
+        "Genre": "Action, Drama",
+        "Cast": "Jonesy, Peter Griffin, Goku",
+        "Rating": "9.2/10",
+        "Image": "https://example.com/fortnite.jpg",
+        "Description": "A gritty drama about hitting the Griddy after a 360-no-scope in Tilted Towers."
+    }
+]
