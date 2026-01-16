@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/create.css">
+</head>
+
+<body>
+    <div class="topnav">
+        <a class="active" href="/html/home.html">NattyTV</a>
+        <a class="search" href="/html/search.html">Search</a>
+        <a class="watchlist" href="/html/watchlist.html">Watchlist</a>
+        <a class="create" href="/html/create.html">Create</a>
+    </div>
+    <form id="settings-form">
+        <label> Movie Title:
+            <input type="text" id="movieInput" autofocus required maxlength="15">
+        </label> Genre: <br><br>
+        <label> Genre: 
+            <input type="text" id="genreInput" autofocus required maxlength="15">
+        <label> Rating: 
+            <input type="text" id="ratingInput" autofocus required maxlength="15">
+        </label> Genre: <br><br>
+        <label>Year:
+            <input type="number" id="yearInput" autofocus required maxlength="15">
+        </label><br><br>
+
+        <label>Theme Color:
+            <input type="color" id="theme-color" required>
+        </label><br><br>
+        <label>Font Color:
+            <input type="color" id="font-color" required>
+        </label><br><br>
+
+        <label>Save Settings:
+            <select id="storage-choice">
+                <option value="local">Save Forever (Local Storage)</option>
+                <option value="session">Save Until Tab Closes (Session Storage)</option>
+            </select>
+        </label><br><br>
+
+        <button type="submit">Save</button>
+
+    </form>
+
+    <script src="/js/create.js"> </script>
+</body>
+
+</html>
